@@ -1,0 +1,1 @@
+print('Ola, parabêns, você se livrou da maldição')

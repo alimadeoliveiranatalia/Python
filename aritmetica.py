@@ -1,0 +1,10 @@
+x=5
+y=2
+print('Soma')
+print(x+y)
+print('subtraçao')
+print(x-y)
+print('Multiplição')
+print(x*y)
+print('Divisão')
+print(x/y)
